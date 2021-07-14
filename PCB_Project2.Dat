@@ -1,0 +1,15 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project2.PrjPCB|ReportField=ProjectFullPath~G:\Altium Begginar projects Projects\8051 schematics circuite\PCB_Project2.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project2.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~29|ReportField=ReportTime~6:06:38 PM|ReportField=ReportDate~4/14/2021|ReportField=ReportDateTime~4/14/2021 6:06:38 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~4/14/2021|ReportField=CurrentTime~6:06:31 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~G:\Altium Begginar projects Projects\8051 schematics circuite\Sheet_clock_circuite.SchDoc|ReportField=DocumentName~Sheet_clock_circuite.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~4/1/2021|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project2.PrjPCB|ReportField=DataSourceFullPath~G:\Altium Begginar projects Projects\8051 schematics circuite\PCB_Project2.PrjPCB
+Battery_3V||3V|3V BAT|Battery_3V|1
+74_HCT||74HCT|74HCT|74_HCT|1
+LM7805||7805|L7805|LM7805|1
+Microcontroller||8051|NUV_8051|8051|1
+XTAL_8051||110592MHZ|osc_12|XTAL_8051|1
+AC SUPPLY||AC|CONNECTOR|AC SUPPLY|1
+CF2200UF||CAP|CAP2200UF|CF2200UF|1
+DS1307_RTC||CLK|DS1307|DS1307_RTC|1
+OSCILLATOR||OSC|OSC_32K|OSCILLATOR|1
+RES330||R1, R2, R3, R4, R5, R6, R7, R8|RES|RES330|8
+Rectifire||REC|RECT|Rectifire|1
+7SEGMENT||SEG1, SEG2, SEG3, SEG4, SEG5, SEG6|LED_Display|7-SEGMENTS|6
+SWITCH||SW1, SW2, SW3, SW4|SWITCH|SWITCH|4
+ULN2002||uln|ULN2002|ULN2002|1
